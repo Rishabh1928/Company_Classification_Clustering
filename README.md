@@ -5,11 +5,19 @@ We need to somehow categorize these businesses and companies across a standard t
 # Overview of DATASET
 
 Website: The website of the company/business
+
 Company Name: The company/business name
+
 Homepage Text : Visible homepage text
+
 H1: The heading 1 tags from the html of the home page
+
 H2: The heading 2 tags from the html of the home page
+
 H3: The heading 3 tags from the html of the home page
+
 Navlink text: The visible titles of navigation links on the homepage (Ex: Home, Services, Product, About Us, Contact Us)
+
 Meta keywords: The meta keywords in the header of the page html for SEO
+
 Meta description: The meta description in the header of the page html for SEO
